@@ -6,7 +6,7 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 
 /**
- * Class with static method to creating a list of names of students + teacher.
+ * Class with static method to creating a list of names of students + instructor.
  */
 public class GroupList {
     private GroupList() {

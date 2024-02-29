@@ -36,5 +36,6 @@ public class Calculation {
         } else {
             System.out.println("re-Enter. An incorrect collection size has been introduced");
         }
+        scanner.close();
     }
 }
